@@ -1,1 +1,1 @@
-# DTMPI-DIVR
+This code repository is used as a support code for the article “DTMPI-DIVR: A Digital Twins for Multi-margin Physical Information via Dynamic Interaction of Virtual and Real Sound- vibration Signals for Bearing Fault Diagnosis without Real Fault Samples”, only a part of the code is provided here. vibration Signals for Bearing Fault Diagnosis without Real Fault Samples”, only a part of the code is provided here, the complete code needs to be disclosed after the acceptance of the article, or apply to the corresponding author of the article.
